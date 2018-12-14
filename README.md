@@ -52,3 +52,5 @@ python设计模式实现
 22. Strategy（策略）
 
 23. Visitor（访问者）
+
+
